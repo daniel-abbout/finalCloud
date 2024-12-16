@@ -1,0 +1,14 @@
+C:\Users\HP\Desktop\ipcheck\bin\Debug\net8.0\ipcheck.exe
+C:\Users\HP\Desktop\ipcheck\bin\Debug\net8.0\ipcheck.deps.json
+C:\Users\HP\Desktop\ipcheck\bin\Debug\net8.0\ipcheck.runtimeconfig.json
+C:\Users\HP\Desktop\ipcheck\bin\Debug\net8.0\ipcheck.dll
+C:\Users\HP\Desktop\ipcheck\bin\Debug\net8.0\ipcheck.pdb
+C:\Users\HP\Desktop\ipcheck\obj\Debug\net8.0\ipcheck.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\Desktop\ipcheck\obj\Debug\net8.0\ipcheck.AssemblyInfoInputs.cache
+C:\Users\HP\Desktop\ipcheck\obj\Debug\net8.0\ipcheck.AssemblyInfo.cs
+C:\Users\HP\Desktop\ipcheck\obj\Debug\net8.0\ipcheck.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\ipcheck\obj\Debug\net8.0\ipcheck.dll
+C:\Users\HP\Desktop\ipcheck\obj\Debug\net8.0\refint\ipcheck.dll
+C:\Users\HP\Desktop\ipcheck\obj\Debug\net8.0\ipcheck.pdb
+C:\Users\HP\Desktop\ipcheck\obj\Debug\net8.0\ipcheck.genruntimeconfig.cache
+C:\Users\HP\Desktop\ipcheck\obj\Debug\net8.0\ref\ipcheck.dll
